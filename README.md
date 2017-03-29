@@ -1,0 +1,2 @@
+# judge_NullData_UtilityClass
+判断数据是否为空
